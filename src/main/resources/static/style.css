@@ -1,0 +1,14 @@
+
+.red{
+	color:red;
+}
+
+.green{
+	color:green;
+}
+
+#activities{
+	width: 500px;
+	height:260px;
+	overflow:scroll;
+}
